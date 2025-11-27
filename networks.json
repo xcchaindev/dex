@@ -18,6 +18,25 @@
       "symbol": "WETH"
     }
   },
+  "42357": {
+    "name": "Blokista",
+    "rpc": "https://datasheed.pioscan.com/",
+    "chainId": 42357,
+    "explorer": "https://pioscan.com/",
+    "color": "#627EEA",
+    "storage": "0x1C2bb28E7E38a81D88A246Ed462a4aFC99eacf58",
+    "multicall": "0x27fa95588ca669D592847e44CC0dB3E5928Fb898",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "PIO",
+      "symbol": "PIO"
+    },
+    "wrappedToken": {
+      "address": "0xc50fD211A9e124728B534532c007477DD392539a",
+      "name": "Wrapped PIO",
+      "symbol": "WPIO"
+    }
+  },
   "71111": {
     "name": "Guapcoin X Chain",
     "rpc": "https://rpc-mainnet.guapcoinx.com",
